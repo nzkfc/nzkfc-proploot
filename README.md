@@ -1,6 +1,8 @@
 # nzkfc-proploot
 A prop-based looting script for RedM and RSG Framework
 
+<img width="1000" height="211" alt="image" src="https://github.com/user-attachments/assets/e18d5977-56d1-49d1-991e-e1b811ab1136" />
+
 Config Example:
 https://i.imgur.com/liuHz06.png
 
